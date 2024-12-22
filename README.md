@@ -28,8 +28,7 @@ Welcome to the Awesome Modern PHP repository. This awesome list is a bit differe
 ## Libraries
 
 ### Error Handling
-- [Hephaestus](https://github.com/cmatosbc/hephaestus): modern and adaptive error handling.
-
+- [Hephaestus](https://github.com/cmatosbc/hephaestus): Hephaestus provides a comprehensive set of tools for elegant error handling, combining functional programming concepts with robust exception management.
 ## Tools
 
 ## Resources
