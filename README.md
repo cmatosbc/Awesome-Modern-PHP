@@ -6,6 +6,7 @@ A place for awesome PHP 8+ libraries which look forward, making real use of all 
 - [Getting Started](#getting-started)
 - [Frameworks](#frameworks)
 - [Libraries](#libraries)
+   - [Files](#files)
    - [Error Handling](#error-handling)
    - [Enums](#enums)
 - [Tools](#tools)
@@ -27,6 +28,9 @@ Welcome to the Awesome Modern PHP repository. This awesome list is a bit differe
 - [Zend Framework / Laminas](https://getlaminas.org/)
 
 ## Libraries
+
+### Files
+- [Penelope](https://github.com/cmatosbc/penelope): A high-performance asynchronous file handling library for PHP, leveraging Fibers for non-blocking I/O operations.
 
 ### Error Handling
 - [Hephaestus](https://github.com/cmatosbc/hephaestus): Hephaestus provides a comprehensive set of tools for elegant error handling, combining functional programming concepts with robust exception management.
