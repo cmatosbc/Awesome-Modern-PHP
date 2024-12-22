@@ -6,6 +6,7 @@ A place for awesome PHP 8+ libraries which look forward, making real use of all 
 - [Getting Started](#getting-started)
 - [Frameworks](#frameworks)
 - [Libraries](#libraries)
+   - [Error Handling](#error-handling)
 - [Tools](#tools)
 - [Resources](#resources)
 - [Contributing](#contributing)
@@ -25,6 +26,8 @@ Welcome to the Awesome Modern PHP repository. This awesome list is a bit differe
 - [Zend Framework / Laminas](https://getlaminas.org/)
 
 ## Libraries
+
+### Error Handling
 
 ## Tools
 
