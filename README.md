@@ -8,6 +8,7 @@ A place for awesome PHP 8+ libraries which look forward, making real use of all 
 - [Libraries](#libraries)
    - [Files](#files)
    - [Error Handling](#error-handling)
+   - [Serialization](#serialization)
    - [Enums](#enums)
 - [Tools](#tools)
 - [Resources](#resources)
@@ -34,6 +35,9 @@ Welcome to the Awesome Modern PHP repository. This awesome list is a bit differe
 
 ### Error Handling
 - [Hephaestus](https://github.com/cmatosbc/hephaestus): Hephaestus provides a comprehensive set of tools for elegant error handling, combining functional programming concepts with robust exception management.
+
+### Serialization
+- [Pjson](https://github.com/square/pjson): This library helps deserializing JSON into actual objects of custom defined classes. It does so by using PHP8's attributes on class properties.
 
 ### Enums
 - [PhpEnums](https://github.com/Elao/PhpEnums): Provides additional, opinionated features to the PHP 8.1+ native enums as well as specific integrations with frameworks and libraries.
